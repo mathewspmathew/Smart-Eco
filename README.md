@@ -6,3 +6,4 @@ The Smart Home Energy Management System (SHEMS) is a comprehensive solution for 
 *Here is the basic workflow*
 
 Android App:
+[App Release](https://github.com/mathewspmathew/Smart-Eco/releases/tag/new)
